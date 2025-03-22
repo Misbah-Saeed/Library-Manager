@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Technical & Advanced:",
+        "author": "Misbah Saeed",
+        "year": "2025",
+        "genre": "Deep Learning",
+        "read": true
+    }
+]
